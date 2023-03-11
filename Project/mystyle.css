@@ -31,3 +31,22 @@ ul li ul li{
 ul li:hover ul li{
     display: block;
 }
+
+.left{
+    width: 250px;
+    height: 700px;
+    background-color: rgb(204, 201, 38);
+    position: absolute;
+    margin: 50px 10px;
+    border-radius: 20px;
+    left: 0px;
+}
+.body{
+    width: 600px;
+    height: 700px;
+    background-color: black;
+    position: absolute;
+    margin: 50px 10px;
+    border-radius: 20px;
+    left: 270px;
+}
